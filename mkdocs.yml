@@ -1,0 +1,10 @@
+site_name: pytest-unitcheck
+site_description: Checks if all functions are called and asserted in tests.
+site_author: Ruben Menke
+
+theme: readthedocs
+
+repo_url: https://github.com/ic_fly2/pytest-unitcheck
+
+pages:
+- Home: index.md
